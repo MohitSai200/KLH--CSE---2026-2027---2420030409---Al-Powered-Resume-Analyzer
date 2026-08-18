@@ -3,7 +3,7 @@ System
 Course Code: 24CI3201 
 Course Title: Adaptive Software Engineering 
 Team Members 
-2420030409 – MOHITH | 2420030486 – KASAM VAMSHI | 2420090001 – SURYA CHANDANALA | 
+2420030409 – MOHIT | 2420030486 – KASAM VAMSHI | 2420090001 – SURYA CHANDANALA | 
 2420030176 – ROCHAN 
 ABSTRACT 
 The recruitment process has become increasingly competitive, with organizations receiving a 
